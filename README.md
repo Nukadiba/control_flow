@@ -15,7 +15,12 @@
 ![](./img/elseif.png)       
 
 ## Executing the forloop command
-![](./img/for_loop_exper.png)
 
-### Executing in cstyle form
+### Executing loop_list
+![](./img/list.png)
+
+### Executing loop_range
+![](./img/range.png)
+
+### Executing loop_cstyle
 ![](./img/cstyle.png)
