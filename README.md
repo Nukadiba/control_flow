@@ -12,4 +12,11 @@
 ![](./img/if_script.png)
 
 ## Executing the ifelse command
-![](./img/elseif.png)
+![](./img/elseif.png)       
+
+## Executing the forloop command
+![](./img/for_loop_exper.png)
+![](./img/exe_for%20loop.png)
+
+### Executing in cstyle form
+[](./img/cstyle.png)
